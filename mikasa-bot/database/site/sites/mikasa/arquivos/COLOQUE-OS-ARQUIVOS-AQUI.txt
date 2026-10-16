@@ -1,0 +1,8 @@
+PASTA DE ARQUIVOS DA MIKASA
+
+Coloque os arquivos para download nesta pasta.
+Para que apareçam no site hospedado, adicione também cada arquivo à lista "files" em arquivos.json.
+Exemplo de item:
+{"title":"MIKASA V8.zip","name":"MIKASA-V8.zip","category":"DOWNLOAD","description":"Arquivo oficial da Mikasa","size":"25 MB"}
+
+Importante: navegadores e hospedagens estáticas não permitem que o HTML liste automaticamente qualquer arquivo da pasta. Por isso, use o índice arquivos.json. Se a lista estiver vazia, o site mostra uma mensagem normal e não dá erro.

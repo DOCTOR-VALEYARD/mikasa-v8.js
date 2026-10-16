@@ -1,0 +1,310 @@
+{
+  "120363426043347269@g.us": {
+    "antilink": true,
+    "antinota": false,
+    "antifake": false,
+    "bemvindo": true
+  },
+  "120363398890330981@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "bemvindo": true,
+    "dddPermitido": "55",
+    "iaDebochadaAtiva": false
+  },
+  "120363403848978940@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "bemvindo": false,
+    "regras": "Nenhuma regra definida. Use !regras [texto] para definir."
+  },
+  "120363421699632934@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "bemvindo": false,
+    "regras": "Nenhuma regra definida. Use !regras [texto] para definir.",
+    "iaDebochadaAtiva": false
+  },
+  "120363407460378641@g.us": {
+    "iaDebochadaAtiva": false
+  },
+  "120363429914058279@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "regras": "oi"
+  },
+  "120363409080506432@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar."
+  },
+  "120363409290081014@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar."
+  },
+  "120363428999314624@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "figurinhaAutomatica": false,
+    "alugado": true
+  },
+  "120363331083918811@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar."
+  },
+  "120363407792122392@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true,
+    "blacklist": [
+      "55",
+      "5522920127821"
+    ]
+  },
+  "120363410891796550@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true
+  },
+  "120363411751280092@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true
+  },
+  "120363427436734162@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true
+  },
+  "120363416638632169@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true
+  },
+  "120363426008321672@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true,
+    "bemvindo": true,
+    "mencaoStatus": true,
+    "blacklist": [
+      "558398129619"
+    ]
+  },
+  "120363403195337750@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": true,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": false,
+    "antiamor": true
+  },
+  "120363424987303531@g.us": {
+    "antilink": true,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": true
+  },
+  "120363408083914099@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar."
+  },
+  "120363411036513133@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: .regras [seu texto] para cadastrar.",
+    "alugado": false
+  },
+  "120363407486642531@g.us": {
+    "alugado": true
+  },
+  "120363411404527994@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": true,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: ?regras [seu texto] para cadastrar.",
+    "aceitarAuto": true,
+    "alugado": true,
+    "antiamor": false,
+    "figurinhaAutomatica": true
+  },
+  "120363428696319100@g.us": {
+    "alugado": true
+  },
+  "120363428567692688@g.us": {
+    "alugado": true,
+    "antilink": true,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: ?regras [seu texto] para cadastrar.",
+    "antiPalavrao": true
+  },
+  "120363415243440826@g.us": {
+    "alugado": true
+  },
+  "120363428133445998@g.us": {
+    "alugado": true,
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": true,
+    "antiamor": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: /regras [seu texto] para cadastrar.",
+    "figurinhaAutomatica": true
+  },
+  "120363412430933079@g.us": {
+    "alugado": true
+  },
+  "120363430578398897@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "antiamor": false,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: /regras [seu texto] para cadastrar.",
+    "alugado": true,
+    "alugadoPor": "",
+    "alugadoEm": 1791736725699
+  },
+  "120363045550475192@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": true,
+    "antiamor": true,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: /regras [seu texto] para cadastrar."
+  },
+  "120363429385936400@g.us": {
+    "antilink": false,
+    "antinota": false,
+    "antifake": false,
+    "antispam": false,
+    "antiflood": false,
+    "antinsfw": false,
+    "antinudes": false,
+    "somenteadm": false,
+    "saudacao": false,
+    "antiamor": true,
+    "regras": "⚠️ Nenhuma regra definida ainda.\nUse: /regras [seu texto] para cadastrar."
+  }
+}

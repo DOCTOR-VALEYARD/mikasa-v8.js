@@ -1,0 +1,67 @@
+[
+  {
+    "numero": "5515998071947",
+    "quantidade": 200,
+    "data": "08/03/2026",
+    "hora": "21:09:49"
+  },
+  {
+    "numero": "551798206067",
+    "quantidade": 100,
+    "data": "09/03/2026",
+    "hora": "13:09:25"
+  },
+  {
+    "numero": "5517982060677",
+    "quantidade": 2000,
+    "data": "09/03/2026",
+    "hora": "13:13:51"
+  },
+  {
+    "data": "27/06/2026",
+    "hora": "13:27:40",
+    "numeroAlvo": "558594193325",
+    "quantidade": 6,
+    "executadoPor": "138457615745263"
+  },
+  {
+    "data": "27/06/2026",
+    "hora": "13:38:10",
+    "numeroAlvo": "558594193325",
+    "quantidadeSolicitada": 6,
+    "executadoPor": "138457615745263",
+    "status": "SIMULADO - INTERNO"
+  },
+  {
+    "data": "27/06/2026",
+    "hora": "13:40:33",
+    "numeroAlvo": "558594193325",
+    "quantidadeSolicitada": 6,
+    "executadoPor": "138457615745263",
+    "status": "CONCLUÍDO"
+  },
+  {
+    "data": "27/06/2026",
+    "hora": "13:41:37",
+    "numeroAlvo": "558594193325",
+    "quantidadeSolicitada": 6,
+    "executadoPor": "138457615745263",
+    "status": "CONCLUÍDO"
+  },
+  {
+    "data": "29/08/2026",
+    "hora": "20:15:34",
+    "numeroAlvo": "558398129619",
+    "quantidadeSolicitada": 27,
+    "executadoPor": "260533353717854",
+    "status": "CONCLUÍDO"
+  },
+  {
+    "data": "31/08/2026",
+    "hora": "11:32:08",
+    "numeroAlvo": "5512982961688",
+    "quantidadeSolicitada": 20,
+    "executadoPor": "260533353717854",
+    "status": "CONCLUÍDO"
+  }
+]

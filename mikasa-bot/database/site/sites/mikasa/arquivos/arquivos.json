@@ -1,0 +1,4 @@
+{
+  "files": [],
+  "_instrucoes": "Coloque os arquivos nesta pasta e cadastre cada um em files. Exemplo: {\"title\":\"MIKASA V8.zip\",\"name\":\"MIKASA-V8.zip\",\"category\":\"DOWNLOAD\",\"description\":\"Arquivo oficial\",\"size\":\"25 MB\"}. O nome em name deve ser idêntico ao arquivo."
+}

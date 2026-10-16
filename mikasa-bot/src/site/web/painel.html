@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Painel — {{NOME}}</title>
+<meta name="theme-color" content="#08080d">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/css/site.css">
+<link rel="stylesheet" href="/assets/css/painel.css">
+</head>
+<body class="painel">
+<div class="login" id="telaLogin" hidden>
+  <form class="cartao formulario" id="formLogin" autocomplete="on">
+    <a class="marca" href="/"><img src="/assets/img/logo.svg" alt="" width="34" height="34"><span>{{NOME}}</span></a>
+    <h1>Painel do dono</h1><p class="suave sem-margem">Entre para ver visitas, downloads e mensagens.</p>
+    <div><label for="lUsuario">Usuário</label><input id="lUsuario" name="usuario" autocomplete="username" required></div>
+    <div><label for="lSenha">Senha</label><input id="lSenha" name="senha" type="password" autocomplete="current-password" required></div>
+    <button class="btn btn-principal" type="submit">Entrar</button>
+    <div class="aviso" id="avisoLogin" role="alert"></div>
+    <small class="suave">Esqueceu a senha? No WhatsApp (dono): <code>/site senha</code></small>
+  </form>
+</div>
+<div id="app">
+  <div class="barra-topo"><button class="btn btn-vidro btn-pequeno" id="abrirLateral" aria-label="Abrir menu">☰</button><strong>{{NOME}}</strong><span></span></div>
+  <div class="layout">
+    <aside class="lateral" id="lateral" aria-label="Menu do painel">
+      <a class="marca" href="/"><img src="/assets/img/logo.svg" alt="" width="34" height="34"><span>{{NOME}}</span></a>
+      <nav id="navPainel"></nav>
+      <button class="nav-item mt14" id="btnSair">🚪 Sair</button>
+    </aside>
+    <main class="principal" id="conteudo"></main>
+  </div>
+</div>
+<div class="toast" id="toast" role="status"></div>
+<script src="/assets/js/painel.js" defer></script>
+</body>
+</html>

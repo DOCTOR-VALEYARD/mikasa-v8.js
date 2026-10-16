@@ -1,0 +1,7 @@
+BIBLIOTECA DE ARQUIVOS MIKASA
+
+Coloque os downloads nesta pasta e registre cada item no array "files" do arquivo arquivos.json.
+Exemplo:
+{"title":"MIKASA V8.zip","name":"MIKASA-V8.zip","category":"DOWNLOAD","description":"Arquivo oficial","size":"25 MB"}
+
+Em hospedagem estática, o HTML não consegue listar sozinho o conteúdo de uma pasta; o arquivos.json funciona como índice. Se estiver vazio, a página mostra uma mensagem amigável.

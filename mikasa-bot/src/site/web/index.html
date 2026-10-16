@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{NOME}} — o bot de WhatsApp completo para o seu grupo</title>
+<meta name="description" content="Música, figurinhas, efeitos de voz, moderação, level, enquetes e IA no WhatsApp. Conheça o {{NOME}}.">
+<meta name="theme-color" content="#08080d">
+<meta property="og:title" content="{{NOME}} — o bot de WhatsApp completo para o seu grupo"><meta property="og:description" content="Música, figurinhas, efeitos de voz, moderação, level, enquetes e IA no WhatsApp. Conheça o {{NOME}}."><meta property="og:type" content="website">
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body data-pagina="inicio">
+<a class="so-leitor" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><div class="contido">
+  <a class="marca" href="/"><img src="/assets/img/logo.svg" alt="" width="34" height="34"><span>{{NOME}}</span></a>
+  <button class="btn-menu" id="btnMenu" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu">☰</button>
+  <nav class="menu" id="menu" aria-label="Principal">
+    <a href="/#recursos">Recursos</a><a href="/#comandos">Comandos</a><a href="/#planos">Planos</a>
+    <a href="/downloads">Downloads</a><a href="/contato">Contato</a>
+    <a class="btn btn-principal btn-pequeno" href="/contato">Falar com o criador</a>
+  </nav>
+</div></header>
+<main id="conteudo">
+
+<section class="heroi"><div class="contido">
+  <span class="selo"><span class="ponto" id="statusPonto"></span><span id="statusTexto">Verificando status…</span></span>
+  <h1>O bot de WhatsApp que <span class="destaque">faz tudo</span> no seu grupo</h1>
+  <p class="sub">Música, figurinhas, efeitos de voz, moderação, level, enquetes e IA — tudo em um só lugar, rápido e estável. Conheça a {{NOME}}.</p>
+  <div class="acoes">
+    <a class="btn btn-principal" href="#comandos">Ver comandos</a>
+    <a class="btn btn-vidro" data-link="canal" href="#" hidden>📢 Entrar no canal</a>
+    <a class="btn btn-vidro" data-link="criador" href="/contato">💬 Falar com o criador</a>
+  </div>
+  <div class="numeros" aria-label="Números do bot">
+    <div class="numero"><b data-numero="comandos">—</b><span>comandos</span></div>
+    <div class="numero"><b data-numero="categorias">—</b><span>categorias</span></div>
+    <div class="numero"><b data-numero="grupos">—</b><span>grupos atendidos</span></div>
+    <div class="numero"><b>24h</b><span>sempre online</span></div>
+  </div>
+</div></section>
+
+<section id="recursos"><div class="contido">
+  <div class="titulo-secao"><h2>Tudo o que a {{NOME}} faz por você</h2><p>Recursos pensados para deixar o grupo mais divertido, organizado e seguro.</p></div>
+  <div class="grade"><article class="cartao revelar"><span class="icone" aria-hidden="true">🎵</span><h3>Música e vídeos</h3><p>Baixe músicas e vídeos do YouTube, TikTok, Instagram e Pinterest direto no chat, com envio rápido.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🎴</span><h3>Figurinhas profissionais</h3><p>Crie figurinhas de fotos, vídeos e GIFs com nome do pacote e autor — e memes prontos.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🎙️</span><h3>33 efeitos de voz</h3><p>Responda um áudio e transforme a voz: esquilo, grave, robô, caverna, criança, dueto e muito mais.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🛡️</span><h3>Moderação de grupo</h3><p>Anti-link, anti-fake, avisos, banimento, boas-vindas e controle total para administradores.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">📊</span><h3>Level e economia</h3><p>Nível que sobe com a atividade (sem spam), moedas, ranking e perfil com foto e estatísticas.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🎮</span><h3>Diversão</h3><p>Enquetes inteligentes, brincadeiras, jogos, citar todos e respostas automáticas por áudio.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🤖</span><h3>Inteligência artificial</h3><p>Converse com a Mikasa e peça ajuda, ideias e textos sem sair do WhatsApp.</p></article><article class="cartao revelar"><span class="icone" aria-hidden="true">🏘️</span><h3>Aluguel para grupos</h3><p>Contrate o bot para o seu grupo com pagamento por Pix e ativação automática.</p></article></div>
+</div></section>
+
+<section id="comandos"><div class="contido">
+  <div class="titulo-secao"><h2>Comandos</h2><p>Use o prefixo <code id="prefixoTexto">/</code> antes de cada comando. Digite <code>menu</code> no WhatsApp para abrir a lista completa.</p></div>
+  <input class="busca" id="buscaComando" type="search" placeholder="Buscar comando…" aria-label="Buscar comando" autocomplete="off">
+  <div class="abas" id="abasComandos" role="tablist" aria-label="Categorias"></div>
+  <div class="chips" id="listaComandos" aria-live="polite"></div>
+</div></section>
+
+<section id="planos"><div class="contido">
+  <div class="titulo-secao"><h2>Alugue o bot para o seu grupo</h2><p>Pagamento por Pix, ativação automática e suporte direto com o criador.</p></div>
+  <div class="planos" id="listaPlanos"><p class="vazio">Carregando planos…</p></div>
+</div></section>
+
+<section><div class="contido">
+  <div class="titulo-secao"><h2>Como começar</h2></div>
+  <div class="passos">
+    <article class="cartao passo"><h3>Escolha um plano</h3><p>Fale com o criador e escolha o plano de aluguel que combina com o seu grupo.</p></article>
+    <article class="cartao passo"><h3>Adicione o bot</h3><p>Ele é adicionado ao grupo e ativado pelo administrador com o comando <code>alugar</code>.</p></article>
+    <article class="cartao passo"><h3>Digite menu</h3><p>Pronto! Envie <code>menu</code> e toque nos botões para usar tudo.</p></article>
+  </div>
+</div></section>
+
+<section><div class="contido estreito">
+  <div class="titulo-secao"><h2>Perguntas frequentes</h2></div>
+  <details><summary>O bot é gratuito?</summary><p>Para usar em grupos existem planos de aluguel por período. Veja a seção de planos acima ou fale com o criador.</p></details>
+  <details><summary>Preciso instalar alguma coisa?</summary><p>Não. Tudo funciona dentro do WhatsApp. Você só precisa ser administrador do grupo para ativar o bot.</p></details>
+  <details><summary>O que acontece se o plano acabar?</summary><p>O bot avisa o grupo e para de responder até a renovação. Seus dados continuam guardados.</p></details>
+  <details><summary>Como falo com o criador?</summary><p>Pela página de <a href="/contato">contato</a> ou pelo botão de WhatsApp no topo do site.</p></details>
+</div></section>
+
+<section><div class="contido"><div class="cartao cta-final">
+  <h2 class="sem-topo">Pronto para turbinar o seu grupo?</h2>
+  <p class="suave">Fale com o criador agora e coloque a {{NOME}} para trabalhar pra você.</p>
+  <a class="btn btn-principal" href="/contato">Entrar em contato</a>
+</div></div></section>
+
+</main>
+<footer class="rodape"><div class="contido">
+  <div><strong>{{NOME}}</strong><br>Feito por {{DONO}} • © {{ANO}}<br><small>Este site registra acessos (IP, navegador e páginas) para estatística e segurança. <a href="/privacidade">Saiba mais</a>.</small></div>
+  <nav aria-label="Rodapé"><a href="/downloads">Downloads</a><a href="/contato">Contato</a><a href="/privacidade">Privacidade</a><a href="/painel">Painel</a></nav>
+</div></footer>
+<script src="/assets/js/site.js" defer></script>
+</body>
+</html>

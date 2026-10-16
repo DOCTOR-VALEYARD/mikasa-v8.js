@@ -1,0 +1,22 @@
+{
+  "name": "DVCL MAX",
+  "version": "10.0.0",
+  "description": "",
+  "main": "menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@napi-rs/canvas": "*",
+    "@whiskeysockets/baileys": "*",
+    "axios": "*",
+    "node-cache": "5.1.2",
+    "pino": "*",
+    "qrcode": "*",
+    "qrcode-terminal": "*"
+  }
+}
